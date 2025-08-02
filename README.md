@@ -5,7 +5,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 🚀 Features
+##  Features
 - Uses **eBPF** to attach directly to the Linux network stack
 # eBPF Packet Sniffer (BCC)
 
@@ -14,7 +14,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 🚀 Features
+##  Features
 - Uses **eBPF** to attach directly to the Linux network stack
 - Displays:
   - Source and destination IPs
@@ -28,7 +28,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **eBPF (Extended Berkeley Packet Filter)**  
 - **BCC (BPF Compiler Collection)**  
 - **Python 3** (for user-space program)  
@@ -36,7 +36,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 ### 1️⃣ Prerequisites
 - Ubuntu (native or via WSL2 on Windows 11)
@@ -56,7 +56,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **eBPF (Extended Berkeley Packet Filter)**  
 - **BCC (BPF Compiler Collection)**  
 - **Python 3** (for user-space program)  
@@ -64,7 +64,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 ### 1️⃣ Prerequisites
 - Ubuntu (native or via WSL2 on Windows 11)
@@ -79,7 +79,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 🚀 Features
+##  Features
 - Uses **eBPF** to attach directly to the Linux network stack
 - Displays:
   - Source and destination IPs
@@ -101,7 +101,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 ### 1️⃣ Prerequisites
 - Ubuntu (native or via WSL2 on Windows 11)
@@ -116,7 +116,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 🚀 Features
+##  Features
 - Uses **eBPF** to attach directly to the Linux network stack
 - Displays:
   - Source and destination IPs
@@ -138,7 +138,7 @@ This tool captures network packets, displays their source & destination IP addre
 
 ---
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 ### 1️⃣ Prerequisites
 - Ubuntu (native or via WSL2 on Windows 11)
